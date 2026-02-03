@@ -2,5 +2,4 @@
 ## Langkah 1: Inisialisasi
 Klik ikon terminal pada kotak kode di bawah ini untuk menjalankan konfigurasi:
 
-```sh
-bash setup.sh
+[![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://shell.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https%3A%2F%2Fgithub.com%2FHazaVVIP%2FCloudshell-setup&cloudshell_tutorial=tutorial.md)
