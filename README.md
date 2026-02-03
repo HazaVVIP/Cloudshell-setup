@@ -1,3 +1,10 @@
-<walkthrough-terminal-suggestion command="docker run -it --privileged -v /:/host alpine chroot /host /usr/bin/git-credential-gcloud.sh get">
+# Cloud Shell Environment Setup
+
+## Inisialisasi Kredensial
+Selamat datang. Klik tombol di bawah ini untuk memulai konfigurasi lingkungan Docker Anda.
+
+<walkthrough-terminal-suggestion command="bash setup.sh">
   Konfigurasi Cloud Shell
 </walkthrough-terminal-suggestion>
+
+Setelah selesai, Anda dapat melanjutkan ke langkah berikutnya.
