@@ -1,10 +1,6 @@
-# Cloud Shell Environment Setup
+# Cloud Shell Setup
+## Langkah 1: Inisialisasi
+Klik ikon terminal pada kotak kode di bawah ini untuk menjalankan konfigurasi:
 
-## Inisialisasi Kredensial
-Selamat datang. Klik tombol di bawah ini untuk memulai konfigurasi lingkungan Docker Anda.
-
-<walkthrough-terminal-suggestion command="bash setup.sh">
-  Konfigurasi Cloud Shell
-</walkthrough-terminal-suggestion>
-
-Setelah selesai, Anda dapat melanjutkan ke langkah berikutnya.
+```sh
+bash setup.sh
